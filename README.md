@@ -6,4 +6,3 @@ Curso de Diseño Experimental
 + Clase semana 1 
 + Clase semana 2
 + Clase semana 3
-+ Clase semana 4
