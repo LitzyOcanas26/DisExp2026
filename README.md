@@ -6,3 +6,4 @@ Curso de Diseño Experimental
 + Clase semana 1 
 + Clase semana 2
 + Clase semana 3
++ Clase semana 4 :paperclip: 09/02/2026
