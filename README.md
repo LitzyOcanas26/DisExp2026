@@ -7,4 +7,3 @@ Curso de Diseño Experimental
 + Clase semana 2
 + Clase semana 3
 + Clase semana 4 :paperclip: 09/02/2026
-  *[Laboratorio1](Lab 1 DisEXP.R)
